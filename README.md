@@ -46,7 +46,7 @@ This project uses MySQL with the following schema:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/student-management-system.git
+   git clone https://github.com/shivani-7024/Unit_Testing/tree/master
    ```
 
 2. **Configure MySQL:**
